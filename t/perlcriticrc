@@ -1,0 +1,9 @@
+severity=1
+
+[-Documentation::RequirePodSections]
+[-Documentation::RequirePodLinksIncludeText]
+[-Miscellanea::RequireRcsKeywords]
+[-ClassHierarchies::ProhibitExplicitISA]
+
+[Documentation::PodSpelling]
+stop_words = Riester Substring runtime substring substrings lcss Yacob API perl Gusfield ikegami
